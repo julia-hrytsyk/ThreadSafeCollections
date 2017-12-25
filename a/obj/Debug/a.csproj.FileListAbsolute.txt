@@ -1,6 +1,0 @@
-F:\ThreadSafeCollections\a\bin\Debug\a.exe.config
-F:\ThreadSafeCollections\a\bin\Debug\a.exe
-F:\ThreadSafeCollections\a\bin\Debug\a.pdb
-F:\ThreadSafeCollections\a\obj\Debug\a.csprojResolveAssemblyReference.cache
-F:\ThreadSafeCollections\a\obj\Debug\a.exe
-F:\ThreadSafeCollections\a\obj\Debug\a.pdb
