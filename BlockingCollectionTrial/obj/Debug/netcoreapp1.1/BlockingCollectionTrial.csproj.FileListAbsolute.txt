@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.deps.json
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.runtimeconfig.json
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.runtimeconfig.dev.json
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.AssemblyInfo.cs
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.dll
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.pdb
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.dll
+\\Mac\Home\Documents\Projects\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.pdb
+F:\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.deps.json
+F:\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.runtimeconfig.json
+F:\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.runtimeconfig.dev.json
+F:\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.dll
+F:\ThreadSafeCollections\BlockingCollectionTrial\bin\Debug\netcoreapp1.1\BlockingCollectionTrial.pdb
+F:\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.AssemblyInfo.cs
+F:\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.dll
+F:\ThreadSafeCollections\BlockingCollectionTrial\obj\Debug\netcoreapp1.1\BlockingCollectionTrial.pdb

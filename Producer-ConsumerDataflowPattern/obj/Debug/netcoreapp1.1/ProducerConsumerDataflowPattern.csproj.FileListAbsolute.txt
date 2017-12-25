@@ -1,0 +1,8 @@
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\bin\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.deps.json
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\bin\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.runtimeconfig.json
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\bin\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.runtimeconfig.dev.json
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\bin\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.dll
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\bin\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.pdb
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\obj\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.AssemblyInfo.cs
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\obj\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.dll
+F:\ThreadSafeCollections\Producer-ConsumerDataflowPattern\obj\Debug\netcoreapp1.1\ProducerConsumerDataflowPattern.pdb
